@@ -1,1 +1,1 @@
-# kratos-gin
+# gin
